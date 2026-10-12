@@ -1,2 +1,2 @@
-# first.repo
-im learning git hub 
+# First.repo
+Im learning git hub 
